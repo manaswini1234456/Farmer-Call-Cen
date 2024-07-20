@@ -1,6 +1,6 @@
-# Krashak.AI
-> Problem Statement (AGRI12)
+python# Krashak.AI
 
+> Problem Statement (AGRI12)
 
 AI-based voice-assisted Contact Center for assisting Farmers for their problems. Farmers can log their problems with the contact center thru phone calls / SMS / website and in return an automated voice response can be provided to the farmers with a most appropriate solution for their problems.
 
@@ -19,15 +19,13 @@ AI-based voice-assisted Contact Center for assisting Farmers for their problems.
 7. AI Voice Assistance
 8. Voice SMS in local language
 
-
 ## Technology Stack:
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23092E20.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img 
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23092E20.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img 
 src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img 
 src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/14143990/2s8YsnYGXi)
-
 
 - **Backend**: Flask
 - **Storage**: AWS S3 Bucket
@@ -38,14 +36,14 @@ src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&
 - **Version Control**: Git and GitHub
 
 ### How to Get Started?
+
 #### GitHub Repository Structure
 
-
-| S.No. | Branch Name                                                                  | Purpose                       |
-| ----- | ---------------------------------------------------------------------------- | ----------------------------- |
-| 1.    | [master](https://github.com/rudrakshi99/Farmer-Call-Center/tree/master)      | contains all Frontend code    |
-| 2.    | [backend](https://github.com/rudrakshi99/Farmer-Call-Center/tree/backend)    | contains all Backend code     |
-| 3.    | [ml](https://github.com/rudrakshi99/Farmer-Call-Center/tree/ml)              | contains all ML code          |
+| S.No. | Branch Name                                                               | Purpose                    |
+| ----- | ------------------------------------------------------------------------- | -------------------------- |
+| 1.    | [master](https://github.com/rudrakshi99/Farmer-Call-Center/tree/master)   | contains all Frontend code |
+| 2.    | [backend](https://github.com/rudrakshi99/Farmer-Call-Center/tree/backend) | contains all Backend code  |
+| 3.    | [ml](https://github.com/rudrakshi99/Farmer-Call-Center/tree/ml)           | contains all ML code       |
 
 ### Backend Setup Instructions
 
@@ -54,7 +52,9 @@ src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&
 ```
 $ git clone https://github.com/rudrakshi99/Farmer-Call-Center.git
 ```
+
 - Checkout to backend branch
+
 ```
 $ cd backend
 ```
@@ -83,17 +83,16 @@ $ pip3 install -r requirements.txt
 $ python3 app.py
 ```
 
-
 ## Team Members:
 
-| S.No. | Name | Role | GitHub Username:octocat: |
-| --------------- | --------------- | --------------- | --------------- |
-| 1. | Rudrakshi (Team Leader) | Frontend Development| [@rudrakshi99](https://github.com/rudrakshi99)  |
-| 2. | Frank Makeba | Frontend Development | [@CutCoders](https://github.com/CutCoders) |
-| 3. | Tony Onkgopotse Richard | Backend Development | [@Onkgopotse007](https://github.com/Onkgopotse007) |
-| 4. | Pedro Anda Ondo Nchama | Backend Development| [@paondonchama](https://github.com/paondonchama)  |
-| 5. | Faremi Saheed | ML Engineer | [@faremi](https://github.com/faremi)  |
-| 6. | Ayushi Saxena | Product Designer | [@ayushisaxena19](https://github.com/ayushisaxena19)  |
+| S.No. | Name                    | Role                 | GitHub Username:octocat:                             |
+| ----- | ----------------------- | -------------------- | ---------------------------------------------------- |
+| 1.    | Rudrakshi (Team Leader) | Frontend Development | [@rudrakshi99](https://github.com/rudrakshi99)       |
+| 2.    | Frank Makeba            | Frontend Development | [@CutCoders](https://github.com/CutCoders)           |
+| 3.    | Tony Onkgopotse Richard | Backend Development  | [@Onkgopotse007](https://github.com/Onkgopotse007)   |
+| 4.    | Pedro Anda Ondo Nchama  | Backend Development  | [@paondonchama](https://github.com/paondonchama)     |
+| 5.    | Faremi Saheed           | ML Engineer          | [@faremi](https://github.com/faremi)                 |
+| 6.    | Ayushi Saxena           | Product Designer     | [@ayushisaxena19](https://github.com/ayushisaxena19) |
 
 ## Maintainers✨
 
@@ -108,12 +107,11 @@ $ python3 app.py
   </tr>
 </tbody></table>
 
-
 # License :memo:
 
 This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
-[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak) 
+[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
-[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak.git) [![Built By Developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak) 
+[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak.git) [![Built By Developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
